@@ -1,0 +1,34 @@
+.der{
+    background-color: #e31b72;
+}
+.div1{
+    height:200px ;
+    width:200px ;
+    border: 5px solid purple;
+}
+.sign-up-button{
+    border: none;
+    border-radius: 5px ;
+    background-color: #e31b72;
+    color: #fff;
+    font-weight: 600;
+}
+.sign-up-button:hover{
+    transform: scale(1.1);
+    background-color: #920f48;
+}
+.login-button:hover{
+    transform: scale(1.1);
+}
+.globe{
+    border: none;
+}
+.globe:hover{
+background-color: rgb(236, 222, 222);
+border-radius: 5px;
+}
+.bb{
+    background-color: aqua;
+    height: 300px;
+    width: 300px;
+}
